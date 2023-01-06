@@ -1,2 +1,9 @@
 # certification-assignment
-Hi , my name is t-Sarayu . I started learning git and GitHub
+#helloWorld.js
+// program
+class HelloWorld {
+   public static void main(String[] args) {
+        system.out.println("Hello, World!"):
+   }
+}
+
